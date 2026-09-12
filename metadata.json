@@ -1,0 +1,6 @@
+{
+  "name": "Will Pizzaria e Fahitas",
+  "description": "App oficial da Will Pizzaria e Fahitas em Namibe, Angola. Cardápio no forno a lenha, pedidos para entrega e take-away, reservas e galeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
